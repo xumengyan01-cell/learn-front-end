@@ -1,4 +1,3 @@
 # learn-front-end
-1. Learning to make front end 
-2. try to create html, csss, js, React
-3. create some simple project
+1. Learning Javascript
+2. Using React.js to create markdown tool
